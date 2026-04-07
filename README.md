@@ -33,5 +33,5 @@ I’m a Data Analyst / Business Intelligence enthusiast focused on turning data 
 
 ---
 
-## Connect With Me
-www.linkedin.com/in/tabbaarami
+## For inquiries:
+tabbaarami@hotmail.com
