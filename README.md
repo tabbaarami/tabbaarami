@@ -1,6 +1,6 @@
 # Hi, I’m Rami Al-Tabbaa
 
-I’m a Data Analyst / Business Intelligence enthusiast focused on turning data into clear, structured insights that help businesses make informed decisions.
+Data & BI focused — with an interest in turning raw data into structured insights that support better business decisions.
 
 ---
 
